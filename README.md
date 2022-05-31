@@ -3,7 +3,7 @@
 - 🔭 Em progresso
 - 🌱 Estudando HTML e CSS
 - 📫 Contate-me no email: vitorreismendes@gmail.com
-- <div align="center">
+ <div align="center">
   <a href="https://github.com/vitorreismendes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorreismendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorreismendes&layout=compact&langs_count=7&theme=dark"/>
