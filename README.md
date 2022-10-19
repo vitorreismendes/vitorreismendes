@@ -1,8 +1,8 @@
 ### Olá! Me chamo Vitor Reis 
 
-- 🔭 Em progresso
-- 🌱 Front-end
-- 📫 Contate-me no email: vitorreismendes@gmail.com
+- 🔭 <p> Em progresso </p>
+- 🌱 <p> Me desenvolvendo em <div lang='en'>Front-end</div></p>
+- 📫 <p> Contate-me no email: vitorreismendes@gmail.com </p>
  <div align="center">
   <a href="https://github.com/vitorreismendes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorreismendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
