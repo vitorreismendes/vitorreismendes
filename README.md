@@ -1,7 +1,7 @@
 ### Olá! Me chamo Vitor Reis 
 
 - 🔭 Em progresso
-- 🌱 Estudando HTML e CSS
+- 🌱 Me desenvolvendo em Front-End
 - 📫 Contate-me no email: vitorreismendes@gmail.com
  <div align="center">
   <a href="https://github.com/vitorreismendes">
